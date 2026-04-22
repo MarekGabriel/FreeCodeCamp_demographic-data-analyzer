@@ -12,7 +12,7 @@ The goal of this project is to analyze a dataset containing demographic informat
 * Income analysis based on education level
 * Work hours statistics
 * Country-based income comparisons
-* Most popular accupation data
+* Most popular occupation data
 
 All analysis is performed using Python, primarily with the Pandas library.
 
