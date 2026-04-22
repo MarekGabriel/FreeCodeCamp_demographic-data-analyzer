@@ -25,6 +25,7 @@ All analysis is performed using Python, primarily with the Pandas library.
 ## Dataset
 
 https://raw.githubusercontent.com/freeCodeCamp/boilerplate-demographic-data-analyzer/refs/heads/main/adult.data.csv
+
 Dataset Source:
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
 
