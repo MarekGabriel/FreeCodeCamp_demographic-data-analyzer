@@ -27,6 +27,7 @@ All analysis is performed using Python, primarily with the Pandas library.
 https://raw.githubusercontent.com/freeCodeCamp/boilerplate-demographic-data-analyzer/refs/heads/main/adult.data.csv
 
 Dataset Source:
+
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
 
 ## How to Run
@@ -43,35 +44,59 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: Unive
 ## Example Usage
 
 Input:
+
 no input needed (main function imports proper data from .csv)
 
 Output:
 
-Number of each race:
-[pandas.Series]
-Average age of men: x.x
-Percentage with Bachelors degrees: x.x%
-Percentage with higher education that earn >50K: x.x%
-Percentage without higher education that earn >50K: x.x%
-Min work time: x.x hours/week
-Percentage of rich among those who work fewest hours: x.x%
-Country with highest percentage of rich: xxx
-Highest percentage of rich people in country: x.x%
-Top occupations in India: xxx
+      Number of each race:
+      
+      [pandas.Series]
+      
+      Average age of men: x.x
+      
+      Percentage with Bachelors degrees: x.x%
+      
+      Percentage with higher education that earn >50K: x.x%
+      
+      Percentage without higher education that earn >50K: x.x%
+      
+      Min work time: x.x hours/week
+      
+      Percentage of rich among those who work fewest hours: x.x%
+      
+      Country with highest percentage of rich: xxx
+      
+      Highest percentage of rich people in country: x.x%
+      
+      Top occupations in India: xxx
+
 
 The script returns additionally a Python's dictionary like:
-{
-'race_count': x,
-'average_age_men': x,
-'percentage_bachelors': x,
-'higher_education_rich': x,
-'lower_education_rich': x,
-'min_work_hours': x,
-'rich_percentage': x,
-'highest_earning_country': x,
-'highest_earning_country_percentage': x,
-'top_IN_occupation': x
-}
+
+      {
+      
+      'race_count': x,
+      
+      'average_age_men': x,
+      
+      'percentage_bachelors': x,
+      
+      'higher_education_rich': x,
+      
+      'lower_education_rich': x,
+      
+      'min_work_hours': x,
+      
+      'rich_percentage': x,
+      
+      'highest_earning_country': x,
+      
+      'highest_earning_country_percentage': x,
+      
+      'top_IN_occupation': x
+      
+      }
 
 ## Project Structure
 
